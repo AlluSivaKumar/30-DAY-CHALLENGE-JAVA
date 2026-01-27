@@ -1,0 +1,55 @@
+DAY 4 — Strings in Java (Beginner → Intermediate)
+🎯 Goal
+
+Understand String manipulation, logic, and common patterns.
+
+Solve all 10 questions in Java 👇
+
+1️⃣ Reverse a String
+
+Input a string and print its reverse.
+(Do NOT use StringBuilder.reverse())
+
+2️⃣ Palindrome String
+
+Check whether a string is a palindrome.
+Example: "madam"
+
+3️⃣ Count Vowels & Consonants
+
+Count the number of vowels and consonants in a string.
+
+4️⃣ Count Words in a String
+
+Input a sentence and count how many words it contains.
+
+5️⃣ Remove Whitespaces
+
+Remove all spaces from a string.
+Example: "Java is fun" → "Javaisfun"
+
+6️⃣ Frequency of Each Character
+
+Print the frequency of each character in a string.
+(Ignore spaces)
+
+7️⃣ First Non-Repeating Character
+
+Find the first non-repeating character in a string.
+
+8️⃣ Replace Character
+
+Replace all occurrences of a given character with another character.
+
+9️⃣ Check Anagram
+
+Check whether two strings are anagrams.
+Example: "listen" & "silent"
+
+🔟 Toggle Case
+
+Convert:
+
+uppercase → lowercase
+
+lowercase → uppercase

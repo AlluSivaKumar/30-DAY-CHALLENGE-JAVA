@@ -1,0 +1,48 @@
+DAY 3 — Arrays Basics (Beginner → Solid Foundation)
+🎯 Goal
+
+Learn to store, traverse, and manipulate arrays confidently.
+
+Solve all 10 questions in Java 👇
+
+1️⃣ Array Input & Output
+
+Input N, then input N integers into an array and print them in the same order.
+
+2️⃣ Find Maximum Element
+
+Find the largest element in an array.
+
+3️⃣ Find Minimum Element
+
+Find the smallest element in an array.
+
+4️⃣ Sum & Average
+
+Calculate the sum and average of array elements.
+
+5️⃣ Count Even & Odd Elements
+
+Count how many even and odd numbers are present in the array.
+
+6️⃣ Search an Element (Linear Search)
+
+Input a number X and check whether it exists in the array.
+Print its index if found, else print -1.
+
+7️⃣ Reverse the Array
+
+Reverse the array in-place (don’t use extra array).
+
+8️⃣ Second Largest Element
+
+Find the second largest element in the array.
+
+9️⃣ Check if Array is Sorted
+
+Check whether the array is sorted in ascending order.
+
+🔟 Frequency of Each Element
+
+Print the frequency of each element in the array.
+(You may use a nested loop for now — HashMap comes later.)

@@ -1,0 +1,53 @@
+1️⃣ Print Pattern
+
+Print the following pattern:
+
+*
+**
+***
+****
+*****
+
+2️⃣ Even or Odd
+
+Take an integer input and print whether it is Even or Odd.
+
+3️⃣ Sum of N Natural Numbers
+
+Input N. Print the sum of numbers from 1 to N.
+
+4️⃣ Largest of Three Numbers
+
+Input three integers and print the largest.
+
+5️⃣ Reverse a Number
+
+Input a number (e.g., 1234) and output 4321.
+
+6️⃣ Check Prime Number
+
+Input a number and check if it is Prime.
+
+7️⃣ Count Digits
+
+Input a number and count how many digits it has.
+
+8️⃣ Fibonacci Series
+
+Print the first N Fibonacci numbers.
+
+9️⃣ Palindrome Number
+
+Check whether a number is a Palindrome (e.g., 121).
+
+🔟 Simple Calculator
+
+Using switch case, perform:
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division

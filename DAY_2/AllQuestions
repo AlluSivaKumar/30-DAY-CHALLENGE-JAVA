@@ -1,0 +1,59 @@
+DAY 2 — Loops, Conditions & Number Logic (Beginner → Beginner+)
+🎯 Goal
+
+Strengthen loops, conditions, and basic math logic in Java.
+
+Solve all 10 questions in Java 👇
+
+1️⃣ Multiplication Table
+
+Input a number N and print its table up to 10.
+
+2️⃣ Factorial of a Number
+
+Input N and print N!
+(Try both for loop and while loop if possible)
+
+3️⃣ Sum of Digits
+
+Input a number and print the sum of its digits.
+Example: 123 → 6
+
+4️⃣ Armstrong Number
+
+Check whether a number is an Armstrong number.
+Example:
+153 → 1³ + 5³ + 3³ = 153
+
+5️⃣ Print All Prime Numbers (1 to N)
+
+Input N and print all prime numbers between 1 and N.
+
+6️⃣ Count Even & Odd Digits
+
+Input a number and count how many even digits and odd digits it has.
+
+7️⃣ Power of a Number
+
+Input base and exponent.
+Compute base^exponent without using Math.pow().
+
+8️⃣ Strong Number
+
+Check if a number is a Strong number.
+Example:
+145 → 1! + 4! + 5! = 145
+
+9️⃣ GCD of Two Numbers
+
+Input two numbers and find their GCD (use loop, not built-in).
+
+🔟 Number Pyramid
+
+Print this pattern for input N = 5:
+
+1
+12
+123
+1234
+12345
