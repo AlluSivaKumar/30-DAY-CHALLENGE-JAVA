@@ -15,6 +15,7 @@ public class code10 {
         {
             arr[i] = sc.nextInt();
         }
-        l
+        
+       // boolean array[] = 
     }
 }
