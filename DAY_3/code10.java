@@ -16,6 +16,28 @@ public class code10 {
             arr[i] = sc.nextInt();
         }
         
-       // boolean array[] = 
+        //Default value of boolean array is false
+       boolean[] Visited = new boolean[n];
+       System.out.println("item : count");
+
+       for(int i=0;i<n;i++)
+       {
+            if(Visited[i])
+            {
+                continue;
+            }
+
+            int count = 1;
+            for(int j=i+1;j<n;j++)
+            {
+                if(arr[i] == arr[j])
+                {
+                    count++;
+                    Visited[j] = true;
+                }
+            }
+            System.out.println(arr[i] + " : " + count);
+       }
+
     }
 }
