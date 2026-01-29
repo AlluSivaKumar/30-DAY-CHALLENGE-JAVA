@@ -1,0 +1,85 @@
+DAY 5 — OOPs Concepts in Java (Beginner → Intermediate)
+🎯 Goal
+
+Understand how Java is structured, not just how it runs.
+
+Solve all 10 questions in Java 👇
+(Write separate classes where needed.)
+
+1️⃣ Class & Object
+
+Create a class Student with:
+
+name
+
+rollNo
+
+marks
+
+Create an object and print student details.
+
+2️⃣ Constructor
+
+Add a parameterized constructor to initialize Student details.
+
+3️⃣ Method Overloading
+
+Create a class Calculator with overloaded methods:
+
+add(int a, int b)
+
+add(int a, int b, int c)
+
+add(double a, double b)
+
+4️⃣ Inheritance
+
+Create:
+
+class Animal
+
+class Dog that inherits Animal
+
+Add a method in Animal and override it in Dog.
+
+5️⃣ Polymorphism
+
+Demonstrate runtime polymorphism using method overriding.
+
+6️⃣ Encapsulation
+
+Create a class BankAccount:
+
+private balance
+
+public deposit() and withdraw() methods
+
+Ensure balance cannot be directly accessed.
+
+7️⃣ Abstraction (Abstract Class)
+
+Create an abstract class Shape with method calculateArea().
+Implement it in Circle and Rectangle.
+
+8️⃣ Interface
+
+Create an interface Payment with method pay().
+Implement it in:
+
+CreditCardPayment
+
+UPIPayment (very India-coded 🇮🇳😉)
+
+9️⃣ this Keyword
+
+Write a program demonstrating use of this keyword to resolve variable conflict.
+
+🔟 static Keyword
+
+Create a class with:
+
+static variable
+
+static method
+
+Show how it is shared across objects.
